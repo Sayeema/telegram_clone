@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402899139127",
+    "firebase_url": "https://social-network-app-fb0e7.firebaseio.com",
+    "project_id": "social-network-app-fb0e7",
+    "storage_bucket": "social-network-app-fb0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402899139127:android:62009899e92bf30df39db2",
+        "android_client_info": {
+          "package_name": "com.sayeema.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402899139127-j6dvqfalhbqo175osf7lq8vsr0tqug5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayeema.telegramchatapp",
+            "certificate_hash": "29e2876309670b500f7640d5a6f8048f8cac7112"
+          }
+        },
+        {
+          "client_id": "402899139127-n58pf8fqjdk426401q1v2afv68781u4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFs8pr9DytWoSpdto07vvggobIIivuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402899139127-n58pf8fqjdk426401q1v2afv68781u4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
